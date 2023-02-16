@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning laravel
+<!-- 🌱 I’m currently learning laravel -->
 <div>
 📫 How to reach me: 
 <ul>
